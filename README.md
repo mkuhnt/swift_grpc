@@ -27,3 +27,7 @@ protoc service.proto \
 --grpc-swift_opt=Visibility=Public \
 --grpc-swift_out=Sources/grpc_swift
 ```
+
+# Run the server
+
+`swift run`
